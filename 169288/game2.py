@@ -1,3 +1,4 @@
+#srsrsfr
 from pygame import *
 import time  as t
 import game3
